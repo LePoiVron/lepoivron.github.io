@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Gîte du Poi&#39;Vron</title>
-    <link>https://gite.lepoivron.fr/page/</link>
+    <link>https://www.lepoivron.fr/page/</link>
     <description>Recent content in Pages on Gîte du Poi&#39;Vron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 17 Jan 2021 21:32:07 +0100</lastBuildDate><atom:link href="https://gite.lepoivron.fr/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 21:32:07 +0100</lastBuildDate><atom:link href="https://www.lepoivron.fr/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://gite.lepoivron.fr/page/about/</link>
+      <link>https://www.lepoivron.fr/page/about/</link>
       <pubDate>Sun, 17 Jan 2021 21:32:07 +0100</pubDate>
       
-      <guid>https://gite.lepoivron.fr/page/about/</guid>
+      <guid>https://www.lepoivron.fr/page/about/</guid>
       <description>About me!</description>
     </item>
     
