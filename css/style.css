@@ -16,6 +16,19 @@ figure.left-surrounded {
     float: left
 }
 
+.social ul li {
+    list-style: none;
+}
+
+.social .fa {
+    display: none;
+}
+
+img.social-icon {
+    display: inline;
+    vertical-align: middle;
+}
+
 .post-holder {
     display: flow-root;
 }
